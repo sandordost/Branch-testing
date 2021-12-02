@@ -1,0 +1,10 @@
+
+OnStartup(LaunchGame)
+
+OnPlay(Do more stuff)
+
+//Testing
+LaunchGame{
+	Start the game
+}
+
