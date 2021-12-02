@@ -8,3 +8,5 @@ LaunchGame{
 	Start the game
 }
 
+
+AddWeapon(m4a1)

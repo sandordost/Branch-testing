@@ -1,5 +1,6 @@
 //This gun shoots
 
-Shoot(now)
+AddAttachment(IronSights)
 
-Shoot(afterwards)
+Shoot(later)
+
