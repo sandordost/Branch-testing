@@ -1,5 +1,5 @@
 
-OnStartup(LaunchGame)
+OnStartup(CloseGame)
 
 OnPlay(Do more stuff)
 
@@ -8,3 +8,4 @@ LaunchGame{
 	Start the game
 }
 
+AdjustGame(10%)
