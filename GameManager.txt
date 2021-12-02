@@ -1,5 +1,5 @@
 
-OnStartup(LaunchGame)
+OnStartup(CloseGame)
 
 OnPlay(Do more stuff)
 
@@ -7,4 +7,9 @@ OnPlay(Do more stuff)
 LaunchGame{
 	Start the game
 }
+
+
+AddWeapon(m4a1)
+
+AdjustGame(10%)
 
