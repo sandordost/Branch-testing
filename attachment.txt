@@ -1,3 +1,0 @@
-//Add to weapon
-
-currentWeapon.addAttachment(this)
