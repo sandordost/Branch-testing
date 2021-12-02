@@ -1,6 +1,11 @@
 //This gun shoots
 
+
 AddAttachment(IronSights)
+
+Shoot(now)
+
+Shoot(afterwards)
 
 Shoot(later)
 
